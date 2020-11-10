@@ -9,7 +9,7 @@
 
 [C# SDET 2]()
 
-# Lessons
+## Lessons
 
 1. Markdown
 2. Shells & Scripting
@@ -23,8 +23,17 @@
 10. Arrays & Strings
 11. Iterations
 12. Collections
+13. Introduction to WPF
 13. Data Types Part 2
 14. Exceptions
 15. C# Memory Model
 16. File Operations and Logging
-17. Introduction to WPF
+
+
+## C# OOP
+1. Introduction to the 4 pillars of OOP
+2. Classes & Structs
+3. Inheritance
+4. Polymorphism & Inheritance
+5. SOLID principles
+6. Comparing Objects
